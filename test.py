@@ -1,1 +1,1 @@
-prince("Kubernetes")
+print("Kubernetes")
